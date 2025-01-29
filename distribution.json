@@ -8,66 +8,23 @@
   },
   "servers": [
     {
-      "id": "amst-1.21.3",
-      "name": "amst (Minecraft 1.21.3)",
-      "description": "amst Running Minecraft 1.21.3",
-      "icon": null,
-      "version": "",
-      "address": "localhost:25565",
+      "id": "인생크래프트 서버",
+      "name": "인생크래프트 서버 (Minecraft 1.21.3)",
+      "description": "인생크래프트 서버 Running Minecraft 1.21.3",
+      "icon": https://akzmft8282test1.github.io/lifecraft-s-launcher-test-build-0.0.1-prerelese/Icon.png,
+      "version": "53.0.44",
+      "address": "lifecraft.r-e.kr:11111",
       "minecraftVersion": "1.21.3",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
-      "autoconnect": false,
-      "modules": [
-        {
-          "id": "betterCommandBlockUI.properties",
-          "name": "betterCommandBlockUI.properties",
-          "type": "File",
-          "artifact": {
-            "size": 809,
-            "url": "https://akzmft8282test1.github.io/launchersetup2test/servers/amst-1.21.3/files/config/betterCommandBlockUI.properties",
-            "MD5": "879ab7b05e694bdfed87a1108ca90fb8",
-            "path": "config/betterCommandBlockUI.properties"
-          }
-        },
-        {
-          "id": "indigo-renderer.properties",
-          "name": "indigo-renderer.properties",
-          "type": "File",
-          "artifact": {
-            "size": 290,
-            "url": "https://akzmft8282test1.github.io/launchersetup2test/servers/amst-1.21.3/files/config/fabric/indigo-renderer.properties",
-            "MD5": "2606733b47cf0029bd45b3c1ded1a6fc",
-            "path": "config/fabric/indigo-renderer.properties"
-          }
-        },
-        {
-          "id": "modmenu.json",
-          "name": "modmenu.json",
-          "type": "File",
-          "artifact": {
-            "size": 840,
-            "url": "https://akzmft8282test1.github.io/launchersetup2test/servers/amst-1.21.3/files/config/modmenu.json",
-            "MD5": "6f801fc101c146e1c993f05544858c34",
-            "path": "config/modmenu.json"
-          }
-        },
-        {
-          "id": "nbt_ac.txt",
-          "name": "nbt_ac.txt",
-          "type": "File",
-          "artifact": {
-            "size": 5076,
-            "url": "https://akzmft8282test1.github.io/launchersetup2test/servers/amst-1.21.3/files/config/nbt_ac.txt",
-            "MD5": "93c110ff1a88a48f3da4d5362ecd554c",
-            "path": "config/nbt_ac.txt"
-          }
-        }
-      ]
-    }
-  ]
+      "mainServer": true,
+      "autoconnect": true
+    },
+    "forge":{
+      "version":"53.0.44"
+    },
+    "untrackedFiles":[]
 }
