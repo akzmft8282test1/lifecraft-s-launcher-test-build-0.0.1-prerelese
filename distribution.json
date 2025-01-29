@@ -22,9 +22,5 @@
       },
       "mainServer": true,
       "autoconnect": true
-    },
-    "forge":{
-      "version":"53.0.44"
-    },
-    "untrackedFiles":[]
+    }
 }
