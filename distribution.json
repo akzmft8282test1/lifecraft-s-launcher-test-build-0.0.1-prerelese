@@ -18,7 +18,7 @@
       "minecraftVersion": "1.21.3",
       "discord": {
         "shortId": "인생크래프트",
-        "largeImageText": "인생크래프",
+        "largeImageText": "인생크래프트",
         "largeImageKey": "인생크래프트"
       },
       "mainServer": true,
