@@ -13,7 +13,7 @@
       "description": "인생크래프트 서버 구동 중 Minecraft 1.21.3 (Fabric v0.15.11)",
       "icon": "https://akzmft8282test1.github.io/lifecraft-s-launcher-test-build-0.0.1-prerelese/Icon.png",
       "version": "1.0.0",
-      "address": "lifecraft.r-e.kr:11111",
+      "address": "skript.mods.kr",
       "minecraftVersion": "1.21.3",
       "discord": {
         "shortId": "인생크래프트 서버",
