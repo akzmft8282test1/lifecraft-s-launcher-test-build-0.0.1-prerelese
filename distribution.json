@@ -1,25 +1,24 @@
-
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
+  "rss": "https://akzmft8282test1.github.io/newsfeed/news.xml",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "1350724911227998300",
+    "smallImageText": "인생크래프트 서버",
+    "smallImageKey": "ico"
   },
   "servers": [
     {
-      "id": "인생크래프트 서버",
-      "name": "인생크래프트 서버 (Minecraft 1.21.3)",
-      "description": "인생크래프트 서버 작동 중 Minecraft 1.21.3 (Fabric v0.15.11)",
+      "id": "테스트-1.21.3",
+      "name": "인생크래프트 (Minecraft 1.21.3)",
+      "description": "인생크래프트 서버 구동 중 Minecraft 1.21.3 (Fabric v0.15.11)",
       "icon": "https://akzmft8282test1.github.io/lifecraft-s-launcher-test-build-0.0.1-prerelese/Icon.png",
-      "version": "0.0.1",
+      "version": "1.0.0",
       "address": "lifecraft.r-e.kr:11111",
       "minecraftVersion": "1.21.3",
       "discord": {
-        "shortId": "인생크래프트",
-        "largeImageText": "인생크래프트",
-        "largeImageKey": "인생크래프트"
+        "shortId": "인생크래프트 서버",
+        "largeImageText": "인생크래프트 런처",
+        "largeImageKey": "Icon"
       },
       "mainServer": true,
       "autoconnect": true,
