@@ -13,7 +13,7 @@
       "description": "인생크래프트 서버 구동 중 Minecraft 1.21.3 (Fabric v0.15.11)",
       "icon": "https://akzmft8282test1.github.io/lifecraft-s-launcher-test-build-0.0.1-prerelese/Icon.png",
       "version": "1.0.0",
-      "address": "skript.mods.kr",
+      "address": "lifecraft.r-e.kr:11111",
       "minecraftVersion": "1.21.3",
       "discord": {
         "shortId": "인생크래프트 서버",
@@ -114,6 +114,16 @@
               }
             }
           ]
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.6.10+mc1.21.4@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1305866,
+            "url": "https://akzmft8282test1.github.io/lifecraft-s-launcher-test-build-0.0.1-prerelese/servers/%ED%85%8C%EC%8A%A4%ED%8A%B8-1.21.3/fabricmods/required/sodium-fabric-0.6.10+mc1.21.4.jar",
+            "MD5": "468185e438a8f5f406c71c15daa0ee61"
+          }
         }
       ]
     }
